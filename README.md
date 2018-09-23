@@ -1,2 +1,2 @@
 # Logo-compiler
-A project to compile .logo
+A project to compile .logo file
